@@ -29,7 +29,8 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/download/)
-- [ReactJS](https://pt-br.reactjs.org/)
+- [React.js](https://pt-br.reactjs.org/)
+- [Next.js](https://nextjs.org/)
 - [JavaScript](https://www.javascript.com/)
 - [HTML](https://html.spec.whatwg.org/)
 - [CSS](https://www.w3.org/Style/CSS/)
