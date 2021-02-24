@@ -1,6 +1,12 @@
+<h1 align="center">
+    <img alt="Rocketseat" title="Rocketseat" src="/src/components/images/rocketseat.png" width="60px" />
+    <img alt=" title=" src="/src/components/images/favicon.png" width="60px" />
+</h1>
+
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-rodar">Como rodar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>&nbsp;&nbsp;&nbsp;
@@ -8,9 +14,13 @@
 
 <br>
 
-<h1 align="center">
-   🏃 Aplicação Move-it - NLW4 Curso Rocketseat (Plataforma de educação em tecnologia)
-</h1>
+<p align="center">
+  <img alt="Move-it" src="/src/components/images/Home.png" width="100%"><br>
+  <img alt="Move-it" src="/src/components/images/Home (ciclo iniciado).png" width="100%">
+
+</p>
+
+## 🏃 Aplicação Move-it - NLW4 Curso Rocketseat 
 
 - Status do Projeto: Em desenvolvimento :warning:
 
@@ -21,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Node.js](https://nodejs.org/en/download/)
 - [ReactJS](https://pt-br.reactjs.org/)
 - [JavaScript](https://www.javascript.com/)
-- [HTML5](https://html.spec.whatwg.org/)
+- [HTML](https://html.spec.whatwg.org/)
 - [CSS](https://www.w3.org/Style/CSS/)
 
 
@@ -30,10 +40,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Desenvolvimento de uma aplicação para que o usuário intercale ciclos entre uma atividade que demanda foco total e um longo tempo de atenção, como por exemplo: trabalho, estudos ou games e períodos de descanso ou algum exercício físico, alongamento, etc. A aplicação enviará notificações a cada ciclo realizado e também fará desafios ao usuário.
 
 
+## 🎨 Layout
+
+Você pode visualizar o layout do projeto através [desse link - Move.it 1.0](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0/duplicate?node-id=160%3A2761). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
+
 ## 👩🏿‍💻 Como rodar
 
 - Faça um clone desse repositório;
-- Abra o terminal e faça a instalação dos pacotes de dependências do projeto node_modules($ npm install),
+- Abra o terminal e faça a instalação dos pacotes de dependências do projeto - node_modules($ npm install),
 - Inicie o servidor no terminal ($ npm start) e abra o seu navegador [http://localhost:3000](http://localhost:3000).
 
 
