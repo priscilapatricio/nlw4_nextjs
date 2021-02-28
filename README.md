@@ -23,7 +23,7 @@
 
 ## 🏃 Aplicação Move-it - NLW4 Curso Rocketseat 
 
-- Status do Projeto: Em desenvolvimento :warning:
+- Status do Projeto: Concluído :heavy_check_mark:
 
 ## 🚀 Tecnologias
 
