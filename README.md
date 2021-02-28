@@ -18,6 +18,7 @@
   <img alt="Move-it" src="/src/components/images/Logo.png" width="20%"><br><br>
   <img alt="Move-it" src="/src/components/images/Home.png" width="100%"><br>
   <img alt="Move-it" src="/src/components/images/Home(ciclo iniciado).png" width="100%">
+  <img alt="Move-it" src="/src/components/images/Home(novo level).png" width="100%">
 
 </p>
 
