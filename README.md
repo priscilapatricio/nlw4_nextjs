@@ -6,7 +6,8 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#-deploy-do-projeto">Deploy do projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-rodar">Como rodar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>&nbsp;&nbsp;&nbsp;
@@ -18,10 +19,10 @@
   <img alt="Move-it" src="/src/components/images/Logo.png" width="20%"><br><br>
   <img alt="Move-it" src="/src/components/images/Home.png" width="100%"><br>
   <img alt="Move-it" src="/src/components/images/Home(ciclo iniciado).png" width="100%"><br>
-  <img alt="Move-it" src="/src/components/images/Home(novo level).png" width="100%">
+  <img alt="Move-it" src="/src/components/images/Home(novo level).png" width="100%"><br>
 </p>
 
-## 🏃 Aplicação Move-it - NLW4 Curso Rocketseat 
+## 🏃 Aplicação Move-it - Next Level Week #04 - NLW4 
 
 - Status do Projeto: Concluído :heavy_check_mark:
 
@@ -46,12 +47,16 @@ Desenvolvimento de uma aplicação para que o usuário intercale ciclos entre um
 
 Você pode visualizar o layout do projeto através [desse link - Move.it 1.0](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0/duplicate?node-id=160%3A2761). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
 
+## 👀 Deploy do Projeto
+
+Você pode acessar o projeto através deste [link](https://nlw4moveit-c5wzsyr4l-priscilapatricio.vercel.app/).
+
 ## 👩🏿‍💻 Como rodar
 
 - Faça um clone desse repositório;
 - Abra o terminal e faça a instalação dos pacotes de dependências do projeto - node_modules($ npm install),
 - Inicie o servidor no terminal ($ npm start) e abra o seu navegador [http://localhost:3000](http://localhost:3000).
-
+- Build do projeto ($ npm run-script build)- como ele seria executado em produção ($ npm start).
 
 ## 🤔 Como contribuir
 
