@@ -19,7 +19,7 @@
   <img alt="Move-it" src="/src/components/images/Logo.png" width="20%"><br><br>
   <img alt="Move-it" src="/src/components/images/Home.png" width="100%"><br>
   <img alt="Move-it" src="/src/components/images/Home(ciclo iniciado).png" width="100%"><br>
-  <img alt="Move-it" src="/src/components/images/Home(novo level).png" width="100%"><br>
+  <img alt="Move-it" src="/src/components/images/Home(novo level1).png" width="100%"><br>
 </p>
 
 ## 🏃 Aplicação Move-it - Next Level Week #04 - NLW4 
@@ -49,7 +49,7 @@ Você pode visualizar o layout do projeto através [desse link - Move.it 1.0](ht
 
 ## 👀 Deploy do Projeto
 
-Você pode acessar o projeto através deste [link](https://nlw4moveit-c5wzsyr4l-priscilapatricio.vercel.app/).
+Você pode acessar o projeto através deste [link](https://nlw4moveit-ten.vercel.app/).
 
 ## 👩🏿‍💻 Como rodar
 
